@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sinatofigh
+- 👋 Hi, I’m @sina_tofigh
 - 👀 I’m interested in Cellular Automata, Agent-based modelling, aplication of computer simulations in medicine and biology
 - 🌱 I’m currently learning Cellular automata and Agent-based modelling
 - 💞️ I’m looking to collaborate on application of ABM and CA in medicine
